@@ -31,8 +31,8 @@ A secure, RESTful API backend for a collaborative note-taking application, built
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/note-api-node-express-mongodb.git
-cd note-api-node-express-mongodb
+git clone https://github.com/Prerit008/RESTful-API-for-a-Note-Taking-App.git
+cd RESTful-API-for-a-Note-Taking-App
 ```
 
 ### 2. Install Dependencies
@@ -112,7 +112,7 @@ Server will be available at `http://localhost:4000`.
 ## Project Structure
 
 ```
-note-api/
+RESTful-API-for-a-Note-Taking-App/
 ├── src/
 │   ├── config/       # Database configuration
 │   ├── controllers/  # Route logic
